@@ -1,10 +1,9 @@
-title: WoTLK Modding Wiki
-description: WoTLK Development and mods
-remote_theme: wotlkdev/wiki
+title: Meridian 59 Fan-made Wiki
+description: Merigian 58 Reference
+remote_theme: meridian59db/meridian59db.github.io
 
 # Theme settings:
-#site_author: Carlos Pereira Atencio
-repo_url: "https://github.com/wotlkdev/wiki"
+repo_url: "https://github.com/meridian59db/meridian59db.github.io"
 edit_on_github: true
 github_docs_folder: true
 sticky_navigation: true
