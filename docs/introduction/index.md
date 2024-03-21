@@ -6,9 +6,11 @@ nav_exclude: true
 
 # Introduction
 
-WoW modding is a decades old practice going all the way back to the earliest pre-vanilla private servers. This section will aim to explain some _what's_, _when's_ and _why's_ of wow modding.
+Meridian 59 was the first 3D massively multiplayer game, released in 1996. It's back, and it's free to play!
+
+What makes Meridian fun is the small community of players you'll meet every time you log in. Build up your character by fighting monsters and working together with others to solve puzzles. But watch your back: Meridian has a well-balanced player-versus-player combat system that will keep you coming back for more long after you've mastered the game world.
 
 ## Table of Contents
 
-- [**Why WoTLK**](./why-wotlk):
-    - _A brief explanation why all modding happens on WoTLK and not later expansions._
+- [**Build Examples**](./build-examples):
+    - _Some premade builds for you to choose._

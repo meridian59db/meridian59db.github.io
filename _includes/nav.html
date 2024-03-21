@@ -121,19 +121,10 @@
         delete all_children[name];
     }
 
+    // Create the links here based on the directory url
     restore_child('introduction');
-    restore_child('types_of_mods');
-    restore_child('server_setup');
-    restore_child('client_issues');
-    restore_child('your_first_mod');
-    restore_child('proficiency');
-    restore_child('tutorials');
-    restore_child('glossary');
-    restore_child('tools');
-    restore_child('theory');
-    restore_child('dbc');
-    restore_child('sql');
-    restore_child('communities');
+    restore_child('build_examples');
+
 
     for(let child in all_children)
     {
