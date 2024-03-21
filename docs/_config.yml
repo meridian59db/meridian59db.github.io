@@ -1,0 +1,13 @@
+title: WoTLK Modding Wiki
+description: WoTLK Development and mods
+remote_theme: wotlkdev/wiki
+
+# Theme settings:
+#site_author: Carlos Pereira Atencio
+repo_url: "https://github.com/wotlkdev/wiki"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: false
+hljs_style: github-gist
