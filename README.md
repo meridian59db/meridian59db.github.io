@@ -1,4 +1,4 @@
-# WoTLK Modding Resources
+# Meridian 59 Fan-made Wiki
 
 All the pages were moved into [docs](./docs)!!!
 
