@@ -1,5 +1,5 @@
-title: WoTLK Modding Docs
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: Meridian 59 Fan-made Wiki
+description: Fan-made reference for Meridian 59 players
 
 # Development server config, needed to load some of the content
 webrick:
@@ -7,8 +7,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 
 # Theme settings
-#site_author: Carlos Pereira Atencio
-repo_url: 'https://github.com/wotlkdev/wiki'
+repo_url: 'https://github.com/meridian59db/meridian59db.github.io'
 edit_on_github: true
 github_docs_folder: false
 sticky_navigation: true
