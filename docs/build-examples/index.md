@@ -4,8 +4,6 @@ title: Build Examples
 nav_exclude: false
 ---
 
-## Build Examples
-
 Here there are some build examples can use as reference
 
 ### **Three schools archer**  
